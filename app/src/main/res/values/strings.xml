@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Тест личности</string>
+    <string name="title_home">Определи свой тип личности</string>
+
+
+
+    <string name="t1">Определение типа личности</string>
+    <string name="t2">Тип личности</string>
+
+
+
+
+    <string name="title_test">Тест</string>
+
+    <string name="app_logo">Логотип приложения</string>
+
+
+    <string name="title_profile">Профиль</string>
+
+
+    <string name="disclaimer_text"><![CDATA[
+        Этот тест предоставляет общую информацию о типах личности.
+        Результаты не являются абсолютными и могут варьироваться в зависимости от индивидуальных факторов.
+        Для более точного определения типа личности рекомендуется пройти профессиональную консультацию.
+    ]]></string>
+
+
+    <string name="home_title">Главная</string> <!-- Новая строка -->
+
+
+    <string name="vxod_title">Войти</string> <!-- Новая строка -->
+    <string name="registr_title">Регистрация</string> <!-- Новая строка -->
+
+
+</resources>
